@@ -8,6 +8,7 @@ El Curso Habla De:
 - Trucos
 - Creado por Maryori
 - Incluye muchos ejemplos
+- Disponible para todos
 
 [Editor para Readme](http://https://pandao.github.io/editor.md/en.html "Editor para Readme")
 
