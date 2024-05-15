@@ -6,6 +6,7 @@ El Curso Habla De:
 - Comandos GIT
 - Buenas pratcicas
 - Trucos
+- Creado por Maryori
 
 [Editor para Readme](http://https://pandao.github.io/editor.md/en.html "Editor para Readme")
 
